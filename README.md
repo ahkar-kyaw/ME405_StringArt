@@ -1,3 +1,20 @@
+<!---
+<img src="media/1.gif" alt="" width="200"/>
+<img src="media/2.gif" alt="" width="200"/>
+<img src="media/3.gif" alt="" width="200"/>
+<img src="media/4.gif" alt="" width="200"/>
+
+<img src="media/2.jpg" alt="" width="200"/>
+<img src="media/3.jpg" alt="" width="200"/>
+<img src="media/1.jpeg" alt="Cat_Original" width="200"/>
+<img src="media/4.jpg" alt="Cat_String" width="200"/>
+<img src="media/5.jpg" alt="" width="200"/>
+<img src="media/6.jpg" alt="" width="200"/>
+<img src="media/7.jpg" alt="" width="200"/>
+<img src="media/8.jpg" alt="" width="200"/>
+<img src="media/9.jpg" alt="" width="200"/>
+<img src="media/10.jpg" alt="" width="200"/>
+
 ![](media/1.gif)
 ![](media/2.gif)
 ![](media/3.gif)
@@ -13,10 +30,33 @@
 ![](media/8.jpg)
 ![](media/9.jpg)
 ![](media/10.jpg)
+-->
 
+<p align="center">
+  <img src="media/1.jpg" alt="" width="50%"/>
+</p>
+
+<div align="center">
+<h1>ME405_StringArt</h1>
+<p>Cal Poly Spring 2022 ME405 Term Project</p>
+<p>Report Date: 6/10/2022</p>
+</div>
+
+<br></br>
+
+<div align="left">
+<p><strong>Lab Group:</strong> Mecha 16</p>
+<p><strong>Authors:</strong> Ahkar Kyaw, Elvis Tang</p>
+<p><strong>Instructor's Name: </strong> Charlie Refvem </p>
+</div>
+
+<br></br>
+<br></br>
 
 # ME405_StringArt
 Cal Poly Spring 2022 ME405 Term Project
+
+
 
 # Markdown syntax guide
 
