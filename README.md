@@ -37,8 +37,8 @@
 </p>
 
 <div align="center">
-<h1>ME405_StringArt</h1>
-<p>Cal Poly Spring 2022 ME405 Term Project</p>
+<h1>String Art Maker</h1>
+<p>Cal Poly Spring 2022, ME405 Term Project</p>
 <p>Report Date: 6/10/2022</p>
 </div>
 
@@ -53,9 +53,11 @@
 <br></br>
 <br></br>
 
-# ME405_StringArt
-Cal Poly Spring 2022 ME405 Term Project
+# Introduction
+Text
 
+# Introduction
+Text
 
 
 # Markdown syntax guide
