@@ -40,9 +40,14 @@ _You **can** combine them_
 
 ![This is a alt text.](/image/sample.png "This is a sample image.")
 
+https://drive.google.com/file/d/1LtbPpOibTKHI9eM-5CNW1QeBWgA9KlBs/view?usp=sharing
+
 ## Links
 
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+
+GIF
+![](media/ezgif-3-52e382c69f.gif)
 
 ## Blockquotes
 
