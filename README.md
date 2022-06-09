@@ -15,21 +15,14 @@
 <img src="media/9.jpg" alt="" width="200"/>
 <img src="media/10.jpg" alt="" width="200"/>
 
-![](media/1.gif)
-![](media/2.gif)
-![](media/3.gif)
-![](media/4.gif)
-![](media/1.jpg)
+
+
 ![](media/2.jpg)
 ![](media/3.jpg)
-![](media/1.jpeg)
-![](media/4.jpg)
-![](media/5.jpg)
-![](media/6.jpg)
-![](media/7.jpg)
 ![](media/8.jpg)
 ![](media/9.jpg)
 ![](media/10.jpg)
+
 -->
 
 <p align="center">
@@ -56,19 +49,79 @@
 # Introduction
 Text
 
-# Introduction
+| ![](media/1.jpeg) | ![](media/4.jpg) |
+| ----------------- |:----------------:|
+| left foo          | right foo        |
+
+
+
+# Materials Needed
+* _-in x _-in MDF board ......... [Amazon]().
+* Mini 12V Hand Drill ......... [Amazon](https://www.amazon.com/AUTOTOOLHOME-Electric-Drill-Motor-Drills/dp/B01LZYWFE4/ref=asc_df_B01LZYWFE4/?tag=hyprod-20&linkCode=df0&hvadid=309735728871&hvpos=&hvnetw=g&hvrand=12073945360090893366&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1014232&hvtargid=pla-461591041401&psc=1).
+* NEMA 17 Stepper Motor ....... [Amazon](https://www.amazon.com/dp/B07QV1ZVJR?tag=rpantiques-20&linkCode=ogi&th=1).
+* Nails ......... [Amazon](https://www.amazon.com/Projects-Antique-Repairing-Decorative-Accessories/dp/B082J2JXZD?tag=cf09c0-20&geniuslink=true&th=1).
+* String ......... [Amazon]().
+* 80/20 Aluminum Extrusion ......... [McMASTER-CARR]().
+
+# Tools Needed
+* 3D printer
+* Laser Cutter
+* Item 2a
+* Item 2b
+
+# Hardware Design
+Text
+
+# Software Design
+Text
+
+# Drilling
+![](media/1.gif)
+
+# Nailing
+
+# Looping
+## Without Interference
+![](media/2.gif)
+
+## Mechanism
+![](media/3.gif)
+
+## Challenges
+<img src="media/5.jpg" alt="Inconsistent Nail Height" width="500"/>
+<img src="media/6.jpg" alt="String Getting Tangled Up" width="500"/>
+<img src="media/7.jpg" alt="Insufficient Nail Depth" width="500"/>
+
+## With Interference 
+![](media/4.gif)
+
+# Hardware
+Text
+
+# Software
+Text
+
+# Challenges
 Text
 
 
-# Markdown syntax guide
 
-## Headers
+
+
+
+
+## Program
+
+```
+let message = 'Hello world';
+alert(message);
+```
+
+# Markdown Reference
 
 # This is a Heading h1
 ## This is a Heading h2 
 ###### This is a Heading h6
-
-## Emphasis
 
 *This text will be italic*  
 _This will also be italic_
@@ -78,16 +131,10 @@ __This will also be bold__
 
 _You **can** combine them_
 
-## Lists
-
-### Unordered
-
 * Item 1
 * Item 2
 * Item 2a
 * Item 2b
-
-### Ordered
 
 1. Item 1
 1. Item 2
@@ -105,29 +152,12 @@ https://drive.google.com/file/d/1LtbPpOibTKHI9eM-5CNW1QeBWgA9KlBs/view?usp=shari
 
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
-GIF
-
 
 ## Blockquotes
 
 > Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
 >
 >> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Tables
-
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
-
-## Blocks of code
-
-```
-let message = 'Hello world';
-alert(message);
-```
 
 ## Inline code
 
