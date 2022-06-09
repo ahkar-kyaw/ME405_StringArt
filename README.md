@@ -5,6 +5,7 @@
 ![](media/1.jpg)
 ![](media/2.jpg)
 ![](media/3.jpg)
+![](media/1.jpeg)
 ![](media/4.jpg)
 ![](media/5.jpg)
 ![](media/6.jpg)
@@ -12,7 +13,7 @@
 ![](media/8.jpg)
 ![](media/9.jpg)
 ![](media/10.jpg)
-![](media/1.jpeg)
+
 
 # ME405_StringArt
 Cal Poly Spring 2022 ME405 Term Project
