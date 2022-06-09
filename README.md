@@ -1,3 +1,17 @@
+![](media/1.gif)
+![](media/2.gif)
+![](media/3.gif)
+![](media/4.gif)
+![](media/1.jpg)
+![](media/2.jpg)
+![](media/3.jpg)
+![](media/4.jpg)
+![](media/5.jpg)
+![](media/6.jpg)
+![](media/7.jpg)
+![](media/8.jpg)
+![](media/9.jpg)
+
 # ME405_StringArt
 Cal Poly Spring 2022 ME405 Term Project
 
@@ -47,7 +61,7 @@ https://drive.google.com/file/d/1LtbPpOibTKHI9eM-5CNW1QeBWgA9KlBs/view?usp=shari
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 GIF
-![](Media/ezgif-3-52e382c69f.gif)
+
 
 ## Blockquotes
 
