@@ -76,7 +76,7 @@ Inspired by the beauty and complexity of this art style, we decided to build a m
 
 # System Design
 ## System Operating Procedure
-
+<p>The figure below shows how the string art machine works. First, we need to convert the image to string art and generate its pin sequence via the Python file StringArt_Gen.py on our computer. After the pin sequence is generated, we will transfer this data to the Nucleo STM32 board. And based on the finite state machine and pin sequence, the Nucleo board will communicate with the motor driver through the SPI protocol and further control the motor to perform desired actions.</p>
 <div align="center">
   <img src="media/System Operating Procedure.png" alt="Hardware_Design" width="1000"/>
 </div>
