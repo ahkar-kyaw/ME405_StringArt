@@ -125,11 +125,14 @@ text text text
 
 # Challenges
 ### Inconsistent Nail Height:<br>
-text text text<br>
-<img src="media/5.jpg" alt="Inconsistent Nail Height" width="500" height="500"/>
+
+| ![](media/5.jpg) | The first problem we encountered was the height inconsistency among the nails that we purchased. Even though we managed to drill all the holes to be exactly the same depth, the point of contact between each nail and the looping needle is different. Therefore, the string occasionally slip over the top if the nail is too short compared to others. To fix this problem, you need an alternative string feeding mechanism where the string is fed directly from the top instead of the side like what we have. This way, you the needle can loop the strings along a much lower plane without having to worry about the string getting tangled up. |
+| ----------------- |:----------------|
+
 
 ### String Getting Tangled Up:<br>
-text text text<br>
+| ![](media/6.jpg) | The Second problem we encountered was with regards to the string getting tangled up after looping around the nail. There are two main reasons for why this happen. First is due to the lack of tension in the string. This lack of retraction causes the string to droop down after it  |
+| ----------------- |:----------------:|
 <img src="media/6.jpg" alt="String Getting Tangled Up" width="500" height="500"/>
 
 ### Insufficient Nail Depth:<br>
