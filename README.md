@@ -78,7 +78,7 @@ Inspired by the beauty and complexity of this art style, we decided to build a m
 ## System Operating Procedure
 
 <div align="center">
-  <img src="media/Operating Procedure.png" alt="Hardware_Design" width="1000"/>
+  <img src="media/System Operating Procedure.png" alt="Hardware_Design" width="1000"/>
 </div>
 
 
