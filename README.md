@@ -101,11 +101,17 @@ This is heavily based on the work of reddit user /u/kmmeerts from his post: http
 
 | ![](media/1.jpeg) | ![](media/4.jpg) |
 | ----------------- |:----------------:|
-| left foo          | right foo        |
+| Original Image         | String Art        |
 
 ## Firmware 
 ### Finite State Machine
-text text text
+
+| ![](media/FSM.png) | text text text |
+| :-----------------: |:----------------|
+
+| ![](media/Drill_FSM.png) | ![](media/Loop_FSM.png) |
+| :-----------------: |:----------------:|
+|     Drilling State     | Looping State        |
 
 ## Motor Control
 text text text
