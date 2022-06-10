@@ -111,7 +111,7 @@ This is heavily based on the work of reddit user /u/kmmeerts from his post: http
 
 | ![](media/Drill_FSM.png) | ![](media/Loop_FSM.png) |
 | :-----------------: |:----------------:|
-|     Drilling State     | Looping State        |
+|     Drilling State     | Loop State        |
 
 ## Motor Control
 text text text
