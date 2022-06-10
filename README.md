@@ -100,7 +100,7 @@ This is heavily based on the work of reddit user /u/kmmeerts from his post: http
 [String Art: Towards Computational Fabrication of String Images](https://www.dmg.tuwien.ac.at/geom/ig/publications/stringart/stringart.pdf)
 
 | ![](media/1.jpeg) | ![](media/4.jpg) |
-| ----------------- |:----------------:|
+| :-----------------: |:----------------:|
 | Original Image         | String Art        |
 
 ## Firmware 
