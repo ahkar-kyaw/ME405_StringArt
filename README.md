@@ -75,10 +75,10 @@ Inspired by the beauty and complexity of this art style, we decided to build a m
 | Laser Cutter | [ME405_StringArt/CAD Files/Laser Cutting/](https://github.com/AhKyaw/ME405_StringArt/tree/main/CAD%20Files/Laser%20Cutting)  |
 
 # System Design
-## Operating Procedure
+## System Operating Procedure
 
 <div align="center">
-  <img src="media/Operating Procedure.png" alt="Hardware_Design" width="600"/>
+  <img src="media/Operating Procedure.png" alt="Hardware_Design" width="1000"/>
 </div>
 
 
