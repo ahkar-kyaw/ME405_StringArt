@@ -77,6 +77,9 @@ Inspired by the beauty and complexity of this art style, we decided to build a m
 # System Design
 ## Operating Procedure
 
+<div align="center">
+  <img src="media/Operating Procedure.png" alt="Hardware_Design" width="600"/>
+</div>
 
 
 ## Mechanical Design
