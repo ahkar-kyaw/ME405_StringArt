@@ -88,8 +88,8 @@ Text
 # manufacturing / Machining Tools
 | **Tool** | Source Files |
 | :-----------:  | :-----------:  |
-| 3D printer | [123](/CAD Files/3D Printing/) |
-| Laser Cutter | [123](/CAD Files/Laser Cutting/)  |
+| 3D printer | [123](https://github.com/AhKyaw/ME405_StringArt/tree/main/CAD%20Files/3D%20Printing) |
+| Laser Cutter | [123](https://github.com/AhKyaw/ME405_StringArt/tree/main/CAD%20Files/Laser%20Cutting)  |
 <!--- comment out
 * 3D printer
 * Laser Cutter
