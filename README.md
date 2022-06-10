@@ -49,9 +49,9 @@ Text
 | ----------------- |:----------------:|
 | left foo          | right foo        |
 
-
-
-# Hardware Components
+<br></br>
+# Project Specification
+## Hardware Components
 | **Components** | **vender**     | **Dimension** |
 | :-----------:  | :-----------: | :-----------: |
 | MDF board | [Amazon](https://www.amazon.com/dp/B07QWSTMWJ?ref_=cm_sw_r_cp_ud_dp_WGG48NSVNE196GH4DMZJ) | 14-in(L) x 11-in(W) x 0.25-in(T)|
@@ -68,7 +68,7 @@ Text
 * String ......... [Amazon](https://www.amazon.com/dp/B07LC1YDVR?ref_=cm_sw_r_cp_ud_dp_Z0H458M8TY3VP6MC05YG).
 * 80/20 Aluminum Extrusion ......... [McMASTER-CARR](). --->
 
-# Electronic Components
+## Electronic Components
 | **Components** | **Vender** | **Datasheet**  |
 | :-----------:  | :-----------: | :----------- |
 | NUCLEO (STM32L476RG) | [MOUSER](https://www.mouser.com/ProductDetail/STMicroelectronics/NUCLEO-L476RG?qs=PRtH0mD6DWbM6mRV5DKjBQ%3D%3D) | https://www.st.com/resource/en/datasheet/stm32l476rg.pdf |
@@ -79,11 +79,13 @@ Text
 | TMC4210 | [MOUSER](https://www.mouser.com/ProductDetail/Trinamic/TMC4210-I?qs=TiOZkKH1s2TH5TqjeGBn1g%3D%3D) | https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC4210_Datasheet_Rev.1.06.pdf |
 | TMC2208 | [Amazon](https://www.amazon.com/Printer-TMC2208-Screwdriver-Controller-Ramps1-4/dp/B082LSQWZF/ref=sr_1_3?keywords=tmc2208&qid=1654876252&sr=8-3) | https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC2224_datasheet_Rev1.09.pdf |
 
-# manufacturing / Machining Tools
+## Manufacturing / Machining Tools
 | **Tool** | Source Files |
 | :-----------:  | :-----------:  |
 | 3D Printer | [ME405_StringArt/CAD Files/3D Printing/](https://github.com/AhKyaw/ME405_StringArt/tree/main/CAD%20Files/3D%20Printing) |
 | Laser Cutter | [ME405_StringArt/CAD Files/Laser Cutting/](https://github.com/AhKyaw/ME405_StringArt/tree/main/CAD%20Files/Laser%20Cutting)  |
+
+<br></br>
 
 # System Design
 ## Operating Procedure
@@ -96,6 +98,8 @@ Text
 
 ## Software Design
 text text text
+
+<br></br>
 
 # Results Demonstration
 ## Drilling
