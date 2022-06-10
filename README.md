@@ -88,8 +88,8 @@ Text
 # manufacturing / Machining Tools
 | **Tool** | Source Files |
 | :-----------:  | :-----------:  |
-| 3D printer |  |
-| Laser Cutter |   |
+| 3D printer | [](/CAD Files/3D Printing/) |
+| Laser Cutter | [](/CAD Files/Laser Cutting/)  |
 <!--- comment out
 * 3D printer
 * Laser Cutter
