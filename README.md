@@ -86,10 +86,10 @@ Text
 | TMC2208 | [Amazon](https://www.amazon.com/Printer-TMC2208-Screwdriver-Controller-Ramps1-4/dp/B082LSQWZF/ref=sr_1_3?keywords=tmc2208&qid=1654876252&sr=8-3) | https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC2224_datasheet_Rev1.09.pdf |
 
 # manufacturing / Machining Tools
-| **Tool** |
-| :-----------:  | 
-| 3D printer |
-| Laser Cutter | 
+| **Tool** | Source Files |
+| :-----------:  | :-----------:  |
+| 3D printer |  |
+| Laser Cutter |   |
 <!--- comment out
 * 3D printer
 * Laser Cutter
