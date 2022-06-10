@@ -86,7 +86,7 @@ Text
 | Laser Cutter | [CAD](https://github.com/AhKyaw/ME405_StringArt/tree/main/CAD%20Files/Laser%20Cutting)  |
 
 # Hardware Design
-
+![](media/Hardware_Design.png)
 
 
 
