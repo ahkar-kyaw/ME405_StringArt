@@ -85,18 +85,19 @@ Text
 | 3D Printer | [ME405_StringArt/CAD Files/3D Printing/](https://github.com/AhKyaw/ME405_StringArt/tree/main/CAD%20Files/3D%20Printing) |
 | Laser Cutter | [ME405_StringArt/CAD Files/Laser Cutting/](https://github.com/AhKyaw/ME405_StringArt/tree/main/CAD%20Files/Laser%20Cutting)  |
 
-# Operating Procedure
+# System Design
+## Operating Procedure
 
-# Hardware Design
-text text text
+## Hardware Design
+<br>text text text</br>
 ![](media/Hardware_Design.png)
 
 
 
-# Software Design
+## Software Design
 text text text
 
-# Results
+# Results Demonstration
 ## Drilling
 ![](media/1.gif)
 
@@ -110,14 +111,19 @@ text text text
 ![](media/3.gif)
 
 # Challenges
-text text text
+### Inconsistent Nail Height:<br>
+text text text<br>
 <img src="media/5.jpg" alt="Inconsistent Nail Height" width="500" height="500"/>
-text text text
+
+### String Getting Tangled Up:<br>
+text text text<br>
 <img src="media/6.jpg" alt="String Getting Tangled Up" width="500" height="500"/>
-text text text
+
+### Insufficient Nail Depth:<br>
+text text text<br>
 <img src="media/7.jpg" alt="Insufficient Nail Depth" width="500" height="500"/>
 
-## With Interference 
+### With Interference 
 ![](media/4.gif)
 
 # Reference
