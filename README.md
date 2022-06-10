@@ -31,10 +31,13 @@
 
 <div align="center">
 <h1>String Art Machine</h1>
+<p>By: Ahkar Kyaw, Elvis Tang</p>
+  
 <!--- Comment out
 <p>Cal Poly Spring 2022, ME405 Term Project</p>
 <p>Report Date: 6/10/2022</p>
 --->
+  
 </div>
 
 <div align="left">
