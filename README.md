@@ -91,6 +91,7 @@ To begin with, let’s take a look at the mechanical components of this machine.
 
 ## Software
 ### String Art Generator
+This is heavily based on the work of reddit user /u/kmmeerts from his post: https://www.reddit.com/r/DIY/comments/au0ilz/made_a_string_art_portrait_out_of_a_continuous_2/
 [StringArt_Gen.py](https://gist.github.com/kaspermeerts/781f0137b361b51224dcab722ae387b4)
 [String Art: Towards Computational Fabrication of String Images](https://www.dmg.tuwien.ac.at/geom/ig/publications/stringart/stringart.pdf)
 
