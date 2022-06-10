@@ -26,21 +26,23 @@
 -->
 
 <p align="center">
-  <img src="media/1.jpg" alt="" width="50%"/>
+  <img src="media/1.jpg" alt="" width="70%"/>
 </p>
 
 <div align="center">
-<h1>String Art Maker</h1>
+<h1>String Art Machine</h1>
+<!--- Comment out
 <p>Cal Poly Spring 2022, ME405 Term Project</p>
 <p>Report Date: 6/10/2022</p>
+--->
 </div>
 
-<br></br>
-
 <div align="left">
+<!--- Comment out
 <p><strong>Lab Group:</strong> Mecha 16</p>
 <p><strong>Authors:</strong> Ahkar Kyaw, Elvis Tang</p>
 <p><strong>Instructor's Name: </strong> Charlie Refvem </p>
+--->
 </div>
 
 <br></br>
@@ -80,6 +82,8 @@ Text
 | Mini 12V Hand Drill | [Amazon](https://www.amazon.com/AUTOTOOLHOME-Electric-Drill-Motor-Drills/dp/B01LZYWFE4/ref=asc_df_B01LZYWFE4/?tag=hyprod-20&linkCode=df0&hvadid=309735728871&hvpos=&hvnetw=g&hvrand=12073945360090893366&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1014232&hvtargid=pla-461591041401&psc=1)|  |
 | NEMA 17 Stepper Motor | [Amazon](https://www.amazon.com/dp/B07QV1ZVJR?tag=rpantiques-20&linkCode=ogi&th=1) | http://www.autoflexible.com/file_upload/product/attach/NEMA%2017.pdf |
 | LCD 1602 (I2C port) | [Amazon](https://www.amazon.com/dp/B019K5X53O?ref_=cm_sw_r_cp_ud_dp_NDRGXARM7KG02A7N59Y2) | http://www.handsontec.com/dataspecs/module/I2C_1602_LCD.pdf |
+| TMC4210 | [MOUSER](https://www.mouser.com/ProductDetail/Trinamic/TMC4210-I?qs=TiOZkKH1s2TH5TqjeGBn1g%3D%3D) | https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC4210_Datasheet_Rev.1.06.pdf |
+| TMC2208 | [Amazon](https://www.amazon.com/Printer-TMC2208-Screwdriver-Controller-Ramps1-4/dp/B082LSQWZF/ref=sr_1_3?keywords=tmc2208&qid=1654876252&sr=8-3) | https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC2224_datasheet_Rev1.09.pdf |
 
 # manufacturing / Machining Tools
 | **Tool** |
