@@ -85,6 +85,10 @@ Inspired by the beauty and complexity of this art style, we decided to build a m
 ## Mechanical Design
 To begin with, let’s take a look at the mechanical components of this machine. The overall frame this machine is made entirely out of 80/20 aluminum extrusion. The machines moves using 3 stepper motors and a DC motor with a drill attached to the tip. These motors are then mounted onto the frame using custom 3D printed parts. CAD files for these 3D printed parts can be found under Manufacturing - 3D Printer Source files. 
 
+For the drawing board, we used a laser cut MDF board. The DXF file for laser cutting can be found under Manufacturing - Laser Cutter Source files. Once the board is cut, attach it onto the 3D printed braket #4 and the lazy susan, which will be attached to the machine's frame. You can either directly use this board as your art canvas or mount another MDF board onto this existing platform using the pre-cut alignmnet holes. 
+
+The full CAD model to assist you with the assembly of the whole machine can be found in the CAD folder under our GitHub, ME405_StringArt Repository. 
+
 <div align="center">
   <img src="media/Hardware_Design.png" alt="Hardware_Design" width="600"/>
 </div>
