@@ -89,14 +89,20 @@ To begin with, let’s take a look at the mechanical components of this machine.
   <img src="media/Hardware_Design.png" alt="Hardware_Design" width="600"/>
 </div>
 
-## Electronic Design
-
-## Software Design
+## Software
+### String Art Generator
 text text text
 
 | ![](media/1.jpeg) | ![](media/4.jpg) |
 | ----------------- |:----------------:|
 | left foo          | right foo        |
+
+## Firmware 
+### Finite State Machine
+text text text
+
+## Motor Control
+text text text
 
 # Results Demonstration
 ## Drilling
