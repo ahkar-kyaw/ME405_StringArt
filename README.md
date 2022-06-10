@@ -93,22 +93,23 @@ Text
 # Software Design
 Text
 
-# Drilling
+# Results
+## Drilling
 ![](media/1.gif)
 
-# Nailing
+## Nailing
 
-# Looping
-## Without Interference
+## Looping
+### Without Interference
 ![](media/2.gif)
 
-## Mechanism
+### Mechanism
 ![](media/3.gif)
 
-## Challenges
-<img src="media/5.jpg" alt="Inconsistent Nail Height" width="500"/>
-<img src="media/6.jpg" alt="String Getting Tangled Up" width="500"/>
-<img src="media/7.jpg" alt="Insufficient Nail Depth" width="500"/>
+# Challenges
+<img src="media/5.jpg" alt="Inconsistent Nail Height" width="500" height="500"/>
+<img src="media/6.jpg" alt="String Getting Tangled Up" width="500" height="500"/>
+<img src="media/7.jpg" alt="Insufficient Nail Depth" width="500" height="500"/>
 
 ## With Interference 
 ![](media/4.gif)
