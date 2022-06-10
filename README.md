@@ -92,6 +92,7 @@ To begin with, let’s take a look at the mechanical components of this machine.
 ## Software
 ### String Art Generator
 [StringArt_Gen.py](https://gist.github.com/kaspermeerts/781f0137b361b51224dcab722ae387b4)
+[String Art: Towards Computational Fabrication of String Images](https://www.dmg.tuwien.ac.at/geom/ig/publications/stringart/stringart.pdf)
 
 | ![](media/1.jpeg) | ![](media/4.jpg) |
 | ----------------- |:----------------:|
