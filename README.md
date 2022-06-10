@@ -88,12 +88,13 @@ Text
 # Operating Procedure
 
 # Hardware Design
+text text text
 ![](media/Hardware_Design.png)
 
 
 
 # Software Design
-Text
+text text text
 
 # Results
 ## Drilling
@@ -109,12 +110,17 @@ Text
 ![](media/3.gif)
 
 # Challenges
+text text text
 <img src="media/5.jpg" alt="Inconsistent Nail Height" width="500" height="500"/>
+text text text
 <img src="media/6.jpg" alt="String Getting Tangled Up" width="500" height="500"/>
+text text text
 <img src="media/7.jpg" alt="Insufficient Nail Depth" width="500" height="500"/>
 
 ## With Interference 
 ![](media/4.gif)
+
+# Reference
 
 # Hardware
 Text
