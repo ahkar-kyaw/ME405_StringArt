@@ -82,11 +82,10 @@ Text
 | LCD 1602 (I2C port) | [Amazon](https://www.amazon.com/dp/B019K5X53O?ref_=cm_sw_r_cp_ud_dp_NDRGXARM7KG02A7N59Y2) | http://www.handsontec.com/dataspecs/module/I2C_1602_LCD.pdf |
 
 # manufacturing / Machining Tools
-| **Components** | **Vender** | **Datasheet**  |
-| :-----------:  | :-----------: | :-----------: |
-| 3D printer | [MOUSER](https://www.mouser.com/ProductDetail/STMicroelectronics/NUCLEO-L476RG?qs=PRtH0mD6DWbM6mRV5DKjBQ%3D%3D) | https://www.st.com/resource/en/datasheet/stm32l476rg.pdf |
-| Laser Cutter | [OSHPARK](https://oshpark.com/shared_projects/e6X6OnYK) |  http://wind.calpoly.edu/ME405/doc/shoe_info.html |
-
+| **Tool** |
+| :-----------:  | 
+| 3D printer |
+| Laser Cutter | 
 <!--- comment out
 * 3D printer
 * Laser Cutter
