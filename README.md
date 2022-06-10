@@ -91,7 +91,7 @@ To begin with, let’s take a look at the mechanical components of this machine.
 
 ## Software
 ### String Art Generator
-[StringArt_Gen.py](https://gist.github.com/kaspermeerts/781f0137b361b51224dcab722ae387b4.js)
+[StringArt_Gen.py](https://gist.github.com/kaspermeerts/781f0137b361b51224dcab722ae387b4)
 
 | ![](media/1.jpeg) | ![](media/4.jpg) |
 | ----------------- |:----------------:|
