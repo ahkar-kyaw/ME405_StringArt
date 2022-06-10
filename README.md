@@ -116,6 +116,10 @@ This is heavily based on the work of reddit user /u/kmmeerts from his post: http
 ## Motor Control
 text text text
 
+<div align="center">
+  <img src="media/Motor Control.png" alt="Hardware_Design" width="1000"/>
+</div>
+
 # Results Demonstration
 ## Drilling
 ![](media/1.gif)
@@ -146,6 +150,8 @@ text text text<br>
 
 ### With Interference 
 ![](media/4.gif)
+
+# Reference
 
 # Hardware
 Text
