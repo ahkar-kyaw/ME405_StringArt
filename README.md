@@ -151,8 +151,7 @@ text text text<br>
 ### With Interference 
 ![](media/4.gif)
 
-# Reference
-
+<!---
 # Hardware
 Text
 
