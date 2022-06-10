@@ -131,9 +131,8 @@ text text text
 
 
 ### String Getting Tangled Up:<br>
-| ![](media/6.jpg) | The Second problem we encountered was with regards to the string getting tangled up after looping around the nail. There are two main reasons for why this happen. First is due to the lack of tension in the string. This lack of retraction causes the string to droop down after it  |
-| ----------------- |:----------------:|
-<img src="media/6.jpg" alt="String Getting Tangled Up" width="500" height="500"/>
+| ![](media/6.jpg) | The Second problem we encountered was with regards to the string getting tangled up after looping around the nail. There are two main reasons for why this happen. First is due to the lack of tension in the string. This lack of retraction causes the string to droop down after the needle pulls the string to loop around the nail everytime. When the board rotates after the looping step, the loose string causes the strings to get tangled up. The second reason is due to the nails not being slanted enough. We knew that if all the strings remain at the same height after each loop, it will cause them to crash with each other causing the stings to get tangled up when rotating the board. Therefore, we tiltted the drilling at 5 degree angle from the vertical hoping that the slope will cause the strings to slide down after each loop. However, the slpe was not steep enough, causing the strings to get tangled up. To fix this problem, you could modify the string feeding system so that it goes through several pulley to maintain the tension in the string. You could also add a retraction system to the spool of string so that it will prevent the string from drooping down after pulling it too far. |
+| ----------------- |:----------------|
 
 ### Insufficient Nail Depth:<br>
 text text text<br>
