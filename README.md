@@ -30,15 +30,9 @@
 </p>
 
 <div align="center">
-<h1>String Art Machine</h1>
-<p><strong>By:</strong> Ahkar Kyaw, Elvis Tang</p>
+  <h1>String Art Machine</h1>
+  <p><strong>By:</strong> Ahkar Kyaw, Elvis Tang</p>
 </div>
-
-<!--- Comment out
-<p>Cal Poly Spring 2022, ME405 Term Project</p>
-<p>Report Date: 6/10/2022</p>
-<br></br>
---->
 
 In tutorial we will learn how to build a machine that can replicate an image using strings. We built this machine for our ME405 class. It is still a work in progress with many rooms for improvement but we are very pleased with how far it has come and we are excited to share the project with you. 
 
@@ -51,8 +45,8 @@ Inspired by the beauty and complexity of this art style, we decided to build a m
 | ![](media/2.jpg) | ![](media/3.jpg)|
 | ---------------- | --------------- |
 
-
-# Hardware Components
+# Product Specification
+## Hardware Components
 | **Components** | **vender**     | **Dimension** |
 | :-----------:  | :-----------: | :-----------: |
 | MDF board | [Amazon](https://www.amazon.com/dp/B07QWSTMWJ?ref_=cm_sw_r_cp_ud_dp_WGG48NSVNE196GH4DMZJ) | 14-in(L) x 11-in(W) x 0.25-in(T)|
@@ -62,7 +56,7 @@ Inspired by the beauty and complexity of this art style, we decided to build a m
 | T8 Lead Screw Nut Set | [Amazon](https://www.amazon.com/dp/B07GV72326?ref_=cm_sw_r_cp_ud_dp_XBR2BX6C1A7YK6SPVKN0) | 200mm(L), 8mm(D) |
 
 
-# Electronic Components
+## Electronic Components
 | **Components** | **Vender** | **Datasheet**  |
 | :-----------:  | :-----------: | :----------- |
 | NUCLEO (STM32L476RG) | [MOUSER](https://www.mouser.com/ProductDetail/STMicroelectronics/NUCLEO-L476RG?qs=PRtH0mD6DWbM6mRV5DKjBQ%3D%3D) | https://www.st.com/resource/en/datasheet/stm32l476rg.pdf |
@@ -74,31 +68,34 @@ Inspired by the beauty and complexity of this art style, we decided to build a m
 | TMC2208 | [Amazon](https://www.amazon.com/Printer-TMC2208-Screwdriver-Controller-Ramps1-4/dp/B082LSQWZF/ref=sr_1_3?keywords=tmc2208&qid=1654876252&sr=8-3) | https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC2224_datasheet_Rev1.09.pdf |
 
 
-# Machining Tools
+## Manufacturing / Machining Tools
 | **Tool** | Source Files |
 | :-----------:  | :-----------:  |
 | 3D Printer | [ME405_StringArt/CAD Files/3D Printing/](https://github.com/AhKyaw/ME405_StringArt/tree/main/CAD%20Files/3D%20Printing) |
 | Laser Cutter | [ME405_StringArt/CAD Files/Laser Cutting/](https://github.com/AhKyaw/ME405_StringArt/tree/main/CAD%20Files/Laser%20Cutting)  |
 
-# Operating Procedure
+# System Design
+## Operating Procedure
 
 
 
-# Hardware Design
-To begin with, let’s take a look at the mechanical components of this machine. The machine's frame is made entirely out of 80/20 aluminum extrusion 
+## Mechanical Design
+To begin with, let’s take a look at the mechanical components of this machine. The overall frame this machine is made entirely out of 80/20 aluminum extrusion. The machines moves using 3 stepper motors and a DC motor with a drill attached to the tip. These motors are then mounted onto the frame using custom 3D printed parts. CAD files for these 3D printed parts can be found under Manufacturing - 3D Printer Source files. 
 
-![](media/Hardware_Design.png)
+<div align="center">
+  <img src="media/Hardware_Design.png" alt="Hardware_Design" width="600"/>
+</div>
 
+## Electronic Design
 
-
-# Software Design
+## Software Design
 text text text
 
 | ![](media/1.jpeg) | ![](media/4.jpg) |
 | ----------------- |:----------------:|
 | left foo          | right foo        |
 
-# Results
+# Results Demonstration
 ## Drilling
 ![](media/1.gif)
 
@@ -112,14 +109,19 @@ text text text
 ![](media/3.gif)
 
 # Challenges
-text text text
+### Inconsistent Nail Height:<br>
+text text text<br>
 <img src="media/5.jpg" alt="Inconsistent Nail Height" width="500" height="500"/>
-text text text
+
+### String Getting Tangled Up:<br>
+text text text<br>
 <img src="media/6.jpg" alt="String Getting Tangled Up" width="500" height="500"/>
-text text text
+
+### Insufficient Nail Depth:<br>
+text text text<br>
 <img src="media/7.jpg" alt="Insufficient Nail Depth" width="500" height="500"/>
 
-## With Interference 
+### With Interference 
 ![](media/4.gif)
 
 # Reference
@@ -187,7 +189,6 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 > Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
 >
 >> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
 ## Inline code
 
 This web site is using `markedjs/marked`.
