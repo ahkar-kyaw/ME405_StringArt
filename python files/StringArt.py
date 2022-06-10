@@ -66,10 +66,8 @@ class TMC4210:
     def setVal(self, RegAddr, RW, MSB, LSB, SetVal):
 
         # Register[0]: Addr
-#         print("RegAddr: " + str(RegAddr))
         Register = bytearray(4)
         Register[0] |= ((RegAddr << 1) | RW)
-#         print("Register: " + bin(Register[0])+ " | " + bin(Register[1])+ " | " + bin(Register[2])+ " | " + bin(Register[3]))
 
         # Whether it's a read or write operation
         if RW == READ:
@@ -93,7 +91,6 @@ class TMC4210:
 
                 index.pop(0)
 
-#         print("Register: " + bin(Register[0])+ " | " + bin(Register[1])+ " | " + bin(Register[2])+ " | " + bin(Register[3]) + "\n")
         dataRecv = self.SPI_SendRecv(Register)
         return dataRecv
 
@@ -195,10 +192,6 @@ def Task_StringArt():
     LOOP = 2
     CS = 0
 
-
-
-#     global CS
-
     while True:
         if CS == WAIT:
             lcd.putstr("PUSH THE Button")
@@ -230,7 +223,6 @@ def Task_StringArt():
             print('CS = DRILL, NS = LOOP')
             lcd.clear()
             lcd.putstr("DRILL STATE")
-#             Motor_Str.motor_Calib()
             Motor_Rot.motor_Calib()
             Motor_Drill.motor_Calib()
             p = 0
@@ -244,21 +236,6 @@ def Task_StringArt():
                 delay(2000)
             Motor_Drill.motor_Control(0)
             CS = LOOP
-#             for i in range(1):
-#                 Motor_Rot.motor_Control(p)
-#                 p += round(3*1600/pinNum)
-#                 delay(2000)
-#                 Motor_Drill.motor_Control(700)
-#                 delay(10000)
-#                 for j in range(705, 770, 5):
-#                     Motor_Drill.motor_Control(j)
-#                     delay(2000)
-#                     Motor_Drill.motor_Control(j-5)
-#                     delay(2000)
-#                 Motor_Drill.motor_Control(600)
-#                 delay(6000)
-#             Motor_Drill.motor_Control(0)
-#             CS = LOOP
 
         elif CS == LOOP:
             print('CS = LOOP, NS = WAIT')
@@ -326,9 +303,6 @@ if __name__ == "__main__":
 
 ###########################    TASK INIT STARTS   ##############################
     Start_flag = task_share.Share ('h', thread_protect = False, name = "Start Flag")
-#     Init_flag = task_share.Share ('h', thread_protect = False, name = "Init Flag")
-#     Drill_flag = task_share.Share ('h', thread_protect = False, name = "Drill Flag")
-#     String_flag = task_share.Share ('h', thread_protect = False, name = "String Flag")
 
     Task_StringArt = cotask.Task (Task_StringArt, name = 'Task_StringArt', priority = 1, period = 400, profile = True, trace = False)
 
@@ -344,4 +318,6 @@ if __name__ == "__main__":
 
     print ('\n' + str (cotask.task_list))
     print (task_share.show_all ())
-    print (Task_Comms.ge
+    print (Task_Comms.get_trace ())
+    print ('\r\n')
+###########################    TASK INIT ENDS   ##############################
