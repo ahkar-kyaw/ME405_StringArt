@@ -121,6 +121,7 @@ text text text
 </div>
 
 # Results Demonstration
+Here we will get to see our machine in action. 
 ## Drilling
 ![](media/1.gif)
 
@@ -157,4 +158,4 @@ In the end, we managed to do a full run for the machine with a little bit of int
   <img src="media/4.gif" alt="Machine in Action (with intervention)" width="800"/>
 </div>
 
-Overall, it was a very fun project and we learned a lot from this experience. The machine still has many rooms for improvement and we are hoping to continue working on it even after the class ends. We hope you like the project and hope it will inspire you to build one yourself. 
+Overall, it was a very fun project and we learned a lot from this experience. The machine still has many rooms for improvement and we are planning to continue working on it even after the class ends. We hope you like the project and hopefully it inspired you to build one of your own. 
