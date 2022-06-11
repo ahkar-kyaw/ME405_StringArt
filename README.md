@@ -105,8 +105,15 @@ Our current StringArt_Gen.py file is heavily based on this github repository: [k
 ## Firmware Design
 ### Finite State Machine
 
-| ![](media/Finite_State_Machine.png) |  |
-| :-----------------: |:----------------|
+<div align="center">
+  <img src="media/Finite_State_Machine.png" alt="Hardware_Design" width="800"/>
+</div>
+
+There are a total of three states in this project. The first state is the wait state, in this state the system will initiate the motor setup and wait until the button is pressed. After pressing the button, the system enters the drilling state.</br>
+
+In the drilling state, there are three subroutines, the board rotates to the desired pin, the drill stepper motor rolls the DC drilling motor down to drill holes in the board, and lifts the DC motor up after drilling to the desired depth. The system will loop through these subroutines until there are holes in all desired nail locations. Because we need to put the nails into the holes manually, the system will stay inside the drilling state till we finish inserting nails onto the board and press the button.</br> 
+
+While finishing inserting the nails and pushing the button, the system will enter the looping state. There are four subroutines in the looping state, first, the board will rotate to the degree of desired nails + theta (theta is half of the degree difference between the two nails), and the needle will move outside the edge of the circle that constructs by the nails. After the needle moves outside the circle, the board will rotate to the degree of desired nails - theta. And the needle will move back inside the circle. These are the four subroutines that the system keeps looping through till the maximum number of lines is achieved.</br> 
 
 | ![](media/Drill_FSM.png) | ![](media/Loop_FSM.png) |
 | :-----------------: |:----------------:|
