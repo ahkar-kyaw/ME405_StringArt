@@ -106,7 +106,7 @@ Our current StringArt_Gen.py file is heavily based on this github repository: [k
 ### Finite State Machine
 
 <div align="center">
-  <img src="media/Finite_State_Machine.png" alt="Hardware_Design" width="800"/>
+  <img src="media/Finite_State_Machine.png" alt="Hardware_Design" width="600"/>
 </div>
 
 There are a total of three states in this project. The first state is the wait state, in this state the system will initiate the motor setup and wait until the button is pressed. After pressing the button, the system enters the drilling state.</br>
@@ -120,6 +120,9 @@ While finishing inserting the nails and pushing the button, the system will ente
 |     Drilling State     | Loop State        |
 
 ## Motor Control
+
+We use TMC4210 and TMC2208 as our motion controller and motor driver. STM32 will communicate with the TMC4210 through the SPI protocols, and TMC4210 will generate respective steps and direction signals to TMC2208. After the TMC2208 receives those two signals, it will send the respective power to the motor and the motor will do the desired action.
+
 <div align="center">
   <img src="media/Motor Control.png" alt="Hardware_Design" width="1000"/>
 </div>
