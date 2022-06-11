@@ -106,7 +106,7 @@ Our current StringArt_Gen.py file is heavily based on this github repository: [k
 ## Firmware Design
 ### Finite State Machine
 
-| ![](media/Finite State Machine.png) |  |
+| ![](media/Finite_State_Machine.png) |  |
 | :-----------------: |:----------------|
 
 | ![](media/Drill_FSM.png) | ![](media/Loop_FSM.png) |
