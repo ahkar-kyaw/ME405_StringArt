@@ -93,7 +93,7 @@ The full CAD model to assist you with the assembly of the whole machine can be f
   <img src="media/Hardware_Design.png" alt="Hardware_Design" width="600"/>
 </div>
 
-## Software
+## Software Design
 ### String Art Generator
 Our current StringArt_Gen.py file is heavily based on this github repository: [kaspermeerts/stringart.py](https://gist.github.com/kaspermeerts/781f0137b361b51224dcab722ae387b4), and also the knowledge in this paper: [String Art: Towards Computational Fabrication of String Images](https://www.dmg.tuwien.ac.at/geom/ig/publications/stringart/stringart.pdf).
 <p>The two figures below show the image before and after string art conversion. And before we input the image into the string art generator, we need to crop the image into square shape to make the program run normally.</p>
@@ -103,10 +103,10 @@ Our current StringArt_Gen.py file is heavily based on this github repository: [k
 | :-----------------: |:----------------:|
 | Original Image         | String Art        |
 
-## Firmware 
+## Firmware Design
 ### Finite State Machine
 
-| ![](media/FSM.png) | text text text |
+| ![](media/FSM.png) |  |
 | :-----------------: |:----------------|
 
 | ![](media/Drill_FSM.png) | ![](media/Loop_FSM.png) |
