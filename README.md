@@ -134,6 +134,8 @@ text text text
 ![](media/3.gif)
 
 # Challenges
+Due to our lack of experience developing mechanical systems and budget constraint, most of the problems for the project arises in the mechanical side of the design. Since this is the first time developing such complex mechanical system for both of us, we spent too much time getting things right in the designing stage. We designed many of the parts from bottom up and that cost us a lot of time. By the time we finished a prototype to test with the program, we only have two weeks left. Therefore, we did not have much time to buy new parts and redesign the system to fix the problems. Ideally, we should have focused on getting the mechanical design ready using off the shelf components as early as possible so that we get more time to perfect the design. 
+
 ### Inconsistent Nail Height:<br>
 
 | ![](media/5.jpg) | The first problem we encountered was the height inconsistency among the nails that we purchased. Even though we managed to drill all the holes to be exactly the same depth, the point of contact between each nail and the looping needle is different. Therefore, the string occasionally slip over the top if the nail is too short compared to others. To fix this problem, you need an alternative string feeding mechanism where the string is fed directly from the top instead of the side like what we have. This way, you the needle can loop the strings along a much lower plane without having to worry about the string getting tangled up. |
