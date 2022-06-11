@@ -95,9 +95,9 @@ The full CAD model to assist you with the assembly of the whole machine can be f
 
 ## Software
 ### String Art Generator
-This is heavily based on the work of reddit user /u/kmmeerts from his post: https://www.reddit.com/r/DIY/comments/au0ilz/made_a_string_art_portrait_out_of_a_continuous_2/
-[StringArt_Gen.py](https://gist.github.com/kaspermeerts/781f0137b361b51224dcab722ae387b4)
-[String Art: Towards Computational Fabrication of String Images](https://www.dmg.tuwien.ac.at/geom/ig/publications/stringart/stringart.pdf)
+Our current StringArt_Gen.py file is heavily based on this github repository: [kaspermeerts/stringart.py](https://gist.github.com/kaspermeerts/781f0137b361b51224dcab722ae387b4), and also the knowledge in this paper: [String Art: Towards Computational Fabrication of String Images](https://www.dmg.tuwien.ac.at/geom/ig/publications/stringart/stringart.pdf).
+<p>The two figures below show the image before and after string art conversion. And before we input the image into the string art generator, we need to crop the image into square shape to make the program run normally.</p>
+
 
 | ![](media/1.jpeg) | ![](media/4.jpg) |
 | :-----------------: |:----------------:|
