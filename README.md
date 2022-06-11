@@ -150,75 +150,11 @@ Due to our lack of experience developing mechanical systems and budget constrain
 | ![](media/7.jpg) | The third problem we encountered was with regards to the having insufficient nail depth. We bought a quarter inch MDF board thinking it was sufficient depth for the nails. However, quarter inch was too shallow and the nails were not pinned deep enough so when the tension in the string gets high, the torque causes the nails to get ejected from the hole. Therefore for this project, we used some hot-glue to pin it to the base. A permanent solution to this problem would be to use at least a half inch MDF board. |
 | ----------------- |:----------------|
 
-### With Interference 
-In the end, we managed to do a full run for the machine with a little bit of intervention. We slowed down the speed of string looping so that there is sufficient time for us to make sure the string is at the height. We mainly used a small tweezers to push the string down on the nail so that they do not end up interfering with one another. Occasionally, we have to re-loop the strings around the nail manually, this was caused by the nail not being long enough to reach the design height as mentioned previously.  
+# Full Run (With Intervention)
+In the end, we managed to do a full run for the machine with a little bit of intervention. We slowed the speed of string looping so that there is sufficient time for us to make sure the string is looped correctly. We mostly used a small tweezers to push the string down on the nail so that they do not end up interfering with one another. Occasionally, we have to manually loop the strings onto the nail. This was the result of some nails being not long enough to reach the design height as mentioned previously. 
 
-![](media/4.gif)
+<div align="center">
+  <img src="media/4.gif" alt="Machine in Action (with intervention)" width="800"/>
+</div>
 
-<!---
-# Hardware
-Text
-
-# Software
-Text
-
-# Challenges
-Text
-
-
-
-
-
-
-
-## Program
-
-```
-let message = 'Hello world';
-alert(message);
-```
-
-# Markdown Reference
-
-# This is a Heading h1
-## This is a Heading h2 
-###### This is a Heading h6
-
-*This text will be italic*  
-_This will also be italic_
-
-**This text will be bold**  
-__This will also be bold__
-
-_You **can** combine them_
-
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-
-1. Item 1
-1. Item 2
-1. Item 3
-  1. Item 3a
-  1. Item 3b
-
-## Images
-
-![This is a alt text.](/image/sample.png "This is a sample image.")
-
-https://drive.google.com/file/d/1LtbPpOibTKHI9eM-5CNW1QeBWgA9KlBs/view?usp=sharing
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-## Inline code
-
-This web site is using `markedjs/marked`.
+Overall, it was a very fun project and we learned a lot from this experience. The machine still has many rooms for improvement and we are hoping to continue working on it even after the class ends. We hope you like the project and hope it will inspire you to build one yourself. 
